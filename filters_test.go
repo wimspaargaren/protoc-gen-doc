@@ -4,8 +4,8 @@ import (
 	html "html/template"
 	"testing"
 
-	. "github.com/pseudomuto/protoc-gen-doc"
 	"github.com/stretchr/testify/require"
+	. "github.com/wimspaargaren/protoc-gen-doc"
 )
 
 func TestPFilter(t *testing.T) {
